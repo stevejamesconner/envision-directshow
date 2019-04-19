@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Envision.DirectShow.MediaTypes
+namespace Envision.DirectShow.MediaType
 {
     /// <summary>
     /// Major Media Types for DirectShow. 
