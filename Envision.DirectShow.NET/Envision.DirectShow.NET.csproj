@@ -44,6 +44,10 @@
     <Compile Include="MediaTypes\MediaSubType.cs" />
     <Compile Include="MediaTypes\MediaType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Support\Merit.cs" />
+    <Compile Include="Support\TimeFormat.cs" />
+    <Compile Include="Support\TraceEvent.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
